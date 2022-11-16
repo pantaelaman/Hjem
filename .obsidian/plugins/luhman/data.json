@@ -1,0 +1,5 @@
+{
+  "matchRule": "separator",
+  "addTitle": true,
+  "separator": "_"
+}

@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "9fe42f0fc4eb2b9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6882ef12295e256f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e00e5a9ca6ff7c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/1211224920.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d2e0f9ecda8a8469",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/1211224920.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "453a9c9419053a03",
+    "type": "split",
+    "children": [
+      {
+        "id": "48a16d05ae5e1d8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46a56c538df2c1e6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bf9c738b2d14e79a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "657797729461c43b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8bbd70a8d92b728f",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e2b53dfa1515147",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25fd7be9c6bb386c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Inbox/1211224920.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "19819c20947a5e7e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Inbox/1211224920.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b631bca3eec3ee74",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5572b2dc2eae0754",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Inbox/1211224920.md"
+              }
+            }
+          },
+          {
+            "id": "1f45f828161bcb9d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "fc84eabed1557eb8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d2e0f9ecda8a8469",
+  "lastOpenFiles": [
+    "Index/CS Specific.md",
+    "Index/Education.md",
+    "Inbox/1211224920.md",
+    "Inbox/0811221822.md",
+    "Archive/2009220622.md",
+    "Archive/2309223214.md",
+    "Archive/2710223813.md",
+    "Archive/2709223414.md",
+    "Archive/0410221113.md",
+    "Archive/0211222421.md"
+  ]
+}
