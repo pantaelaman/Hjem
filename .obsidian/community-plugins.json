@@ -8,5 +8,11 @@
   "obsidian-latex-suite",
   "luhman",
   "obsidian-desmos",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-outliner",
+  "obsidian-tasks-plugin",
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-annotator",
+  "periodic-notes",
+  "obsidian-charts"
 ]

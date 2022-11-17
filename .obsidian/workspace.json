@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6882ef12295e256f",
+        "id": "95615305100cc0b5",
         "type": "tabs",
         "children": [
           {
-            "id": "3e00e5a9ca6ff7c5",
+            "id": "a98a6da446b51539",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/1211224920.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d2e0f9ecda8a8469",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/1211224920.md",
+                "file": "Inbox/1611220818.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/1211224920.md",
+                "file": "Inbox/1611220818.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/1211224920.md",
+                "file": "Inbox/1611220818.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/1211224920.md"
+                "file": "Inbox/1611220818.md"
               }
             }
           },
@@ -166,17 +153,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d2e0f9ecda8a8469",
+  "active": "a98a6da446b51539",
   "lastOpenFiles": [
+    "Inbox/1611221856.md",
+    "Inbox/1611220818.md",
+    "Inbox/1611221218.md",
+    "Inbox/1611221847.md",
+    "Archive/1211224920.md",
+    "Index/Robotics.md",
     "Index/CS Specific.md",
     "Index/Education.md",
-    "Inbox/1211224920.md",
-    "Inbox/0811221822.md",
-    "Archive/2009220622.md",
-    "Archive/2309223214.md",
-    "Archive/2710223813.md",
-    "Archive/2709223414.md",
-    "Archive/0410221113.md",
-    "Archive/0211222421.md"
+    "Inbox/1611222713.md",
+    "Archive/0811221822.md"
   ]
 }
